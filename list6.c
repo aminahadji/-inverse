@@ -55,5 +55,5 @@ int main()
     display(head);
     INVERSE(head,&p);
     printf("the content of the list is :\n");
-    display(head);
+    display(p);
 }
